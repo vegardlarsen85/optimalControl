@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
-from Git.OptimalControl.DirectCollocationMethod.DirectCollocation import dircol
+from Git.OptimalControl.DirectCollocation import dircol
 
 # Double Integrator Example
 # x[0] = position
