@@ -4,6 +4,7 @@ Direct Collocation Method
 
 Python script that are massaging Scipy's Sequential Least Squares Minimizer (SLSQP) into fitting the Direct Collocation Method.
 
+Test
 
 Key Info
 --------------------------------------
